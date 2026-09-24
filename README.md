@@ -1,15 +1,15 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+Daniel+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
 
 </div>
 
 ### 🚀 About Me
 
 - 📱 Mobile App Developer building production **Flutter** apps — from state management to store releases
-- 🎓 Final-year **Bachelor in IT (Software Engineering)** student at UniKL MIIT
+- 🎓 Final-year **B.IT (Software Engineering)** student at UniKL MIIT
 - 🏗️ Currently shipping a multi-country F&B ordering app across **App Store, Play Store & Huawei AppGallery**
-- 🐹 Side project: **[PokeBindr](https://github.com/akmadaniel)** — a Pokémon TCG collection tracker (Flutter + Laravel 11)
+- 🐹 Currently building **PokeBindr**, a Pokémon TCG collection tracker (Flutter + Laravel 11) — WIP
 - 🌱 Interested in clean architecture, performance testing, and cross-platform native integrations
 - 📫 Open to **Junior/Mobile Developer** roles — let's talk!
 
@@ -29,18 +29,6 @@
 ![Huawei](https://img.shields.io/badge/Huawei%20HMS-FF0000?style=for-the-badge&logo=huawei&logoColor=white)
 
 </div>
-
-<br>
-
-### 🧩 Featured Project
-
-<div align="center">
-
-[![PokeBindr](https://github-readme-stats.vercel.app/api/pin/?username=akmadaniel&repo=pokebindr&theme=default&hide_border=true)](https://github.com/akmadaniel)
-
-</div>
-
-> A personal Pokémon TCG collection tracker with a stats dashboard, wishlist, set-completion tracker, duplicate counter, and price history — Flutter frontend + Laravel 11 backend.
 
 <br>
 
