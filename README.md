@@ -7,7 +7,7 @@
 ### 🚀 About Me
 
 - 📱 Mobile App Developer building production **Flutter** apps — from state management to store releases
-- 🎓 Final-year **B.IT (Software Engineering)** student at UniKL MIIT
+- 🎓 Final-year **Bachelor in IT (Software Engineering)** student at UniKL MIIT
 - 🏗️ Currently shipping a multi-country F&B ordering app across **App Store, Play Store & Huawei AppGallery**
 - 🐹 Side project: **[PokeBindr](https://github.com/akmadaniel)** — a Pokémon TCG collection tracker (Flutter + Laravel 11)
 - 🌱 Interested in clean architecture, performance testing, and cross-platform native integrations
