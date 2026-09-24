@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+Daniel+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
 
 </div>
 
