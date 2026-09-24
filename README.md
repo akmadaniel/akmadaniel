@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=2EA3F2&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Akma+Daniel+%F0%9F%91%8B;Flutter+Mobile+App+Developer;Building+for+Android%2C+iOS+%26+Huawei;Final-Year+CS+Student+%40+UniKL+MIIT" alt="Typing SVG" />
 
 </div>
 
 ### 🚀 About Me
 
 - 📱 Mobile App Developer building production **Flutter** apps — from state management to store releases
-- 🎓 Final-year **B.IT (Software Engineering)** student at UniKL MIIT
+- 🎓 Final-year **Bachelor in IT (Software Engineering)** student at UniKL MIIT
 - 🏗️ Currently shipping a multi-country F&B ordering app across **App Store, Play Store & Huawei AppGallery**
 - 🐹 Currently building **PokeBindr**, a Pokémon TCG collection tracker (Flutter + Laravel 11) — WIP
 - 🌱 Interested in clean architecture, performance testing, and cross-platform native integrations
